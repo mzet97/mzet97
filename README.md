@@ -1,16 +1,44 @@
-### Hi there 👋
+# Hi, I'm Matheus Zeitune
 
-<!--
-**matzet00/matzet00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
+Developer with great knowledge in software engineering, systems architecture, DDD, systems integration, patterns designing, SOLID, unit tests and object oriented programing. Furthermore, he has knowledge in C#, Asp.net Core, NodeJs and React.
 
-Here are some ideas to get you started:
+# Education
+Analysis and Development Systems Technology, Unicarioca
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hard skills
+## Languages
+* JavaScript
+* TypeScript
+* C#
+* C
+* Java
+* Dart
+
+## Frameworks
+* Node.js
+* React
+* Flutter
+* .Net 6
+* .Net Core
+* Asp.Net Core
+* Aps.Net 6
+* Entity Framework
+* Entity framework Core
+
+## Databases
+* SQL
+* SQL Server
+* PostgreSQL
+
+## Tools
+* Git
+* Docker
+
+# Social Media
+[linkedin](https://www.linkedin.com/in/matheus-zeitune)
+
+<div align="left"> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matzet00&layout=compact&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=matzet00&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true" />
+</div>
