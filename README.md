@@ -39,6 +39,6 @@ Analysis and Development Systems Technology, Unicarioca
 [linkedin](https://www.linkedin.com/in/matheus-zeitune)
 
 <div align="left"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matzet00&layout=compact&theme=dark" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=matzet00&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matzet97&layout=compact&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=matzet97&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true" />
 </div>
