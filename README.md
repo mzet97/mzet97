@@ -4,10 +4,16 @@
 Developer with great knowledge in software engineering, systems architecture, DDD, systems integration, patterns designing, SOLID, unit tests and object oriented programing. Furthermore, he has knowledge in C#, Asp.net Core, NodeJs and React.
 
 # Education
-Analysis and Development Systems Technology, Unicarioca
+Analysis and Development Systems Technology at Unicarioca
+Studying Computer engineering at Faculdade Descomplica
 
 # Hard skills
 ## Languages
+<div style="display: flex;flex-direction: row;justify-content:center;align-items:center">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <i class="devicon-javascript-plain colored"></i>
+          
+<div>
 * JavaScript
 * TypeScript
 * C#
@@ -40,5 +46,5 @@ Analysis and Development Systems Technology, Unicarioca
 
 <div align="left"> 
   <a href=""> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mzet97&theme=react&line_height=40&hide=css"/> </a>
-  <a href=""> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mzet97&show_icons=true"/> </a>
+  <a href=""> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mzet97&show_icons=true&theme=radical"/> </a>
 </div>
