@@ -30,23 +30,35 @@ Studying Computer engineering at Faculdade Descomplica
  <a href="#" title="Dart">
   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
  </a>
-<div>
+</div>
 
 ## Frameworks
 <div style="display: flex;flex-direction: row;justify-content:center;align-items:center">
+<a href="#" title="Node.js">
+   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+</a>
+<a href="#" title="React">
+   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+</a>        
+
+<a href="#" title="Flutter">
+   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+</a>                
+<a href="#" title=".Net core">
+   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+</a>          
+
+<a href="#" title=".Net">
+   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+</a>       
+
+<a href="#" title=".Net">
+   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+</a>          
+
+   </div>
    
-            <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-          
-            <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-          
- 
-            <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-          
-            <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-          
-            <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
-          
-<div>
+   
 * Node.js
 * React
 * Flutter
