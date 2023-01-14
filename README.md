@@ -12,10 +12,10 @@ Studying Computer engineering at Faculdade Descomplica
 <div style="display: flex;flex-direction: row;justify-content:center;align-items:center">
  
    <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-          
+   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+                
           
 <div>
-* JavaScript
 * TypeScript
 * C#
 * C
