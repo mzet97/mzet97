@@ -38,7 +38,7 @@ Analysis and Development Systems Technology, Unicarioca
 # Social Media
 [linkedin](https://www.linkedin.com/in/matheus-zeitune)
 
-<div align="left"> 
+<div align="center"> 
   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mzet97&theme=react&line_height=40&hide=css"/> </a>
   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mzet97&show_icons=true"/> </a>
 </div>
