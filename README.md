@@ -21,6 +21,10 @@ Studying Computer engineering at Faculdade Descomplica
  <div>
 
 ## Frameworks
+<div style="display: flex;flex-direction: row;justify-content:center;align-items:center">
+
+ 
+<div>
 * Node.js
 * React
 * Flutter
