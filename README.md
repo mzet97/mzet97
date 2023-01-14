@@ -105,7 +105,7 @@ Developer with great knowledge in software engineering, systems architecture, DD
 # Social Media
 <div style="display: flex;flex-direction: row;justify-content:center;align-items:center">
 <a href="https://www.linkedin.com/in/matheus-zeitune" title="LinkedIn">
- 	<img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+ 	<img style="height:100px;width:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
 	</a>
 </div>
 
