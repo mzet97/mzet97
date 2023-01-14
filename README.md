@@ -11,7 +11,7 @@ Studying Computer engineering at Faculdade Descomplica
 ## Languages
 <div style="display: flex;flex-direction: row;justify-content:center;align-items:center">
  
-   <img style="height:25px;width:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
           
 <div>
