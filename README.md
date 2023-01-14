@@ -13,14 +13,11 @@ Studying Computer engineering at Faculdade Descomplica
  
    <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-                
-          
-<div>
-* TypeScript
-* C#
-* C
-* Java
-* Dart
+   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />          
+ 
+ <div>
 
 ## Frameworks
 * Node.js
