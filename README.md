@@ -4,8 +4,8 @@
 Developer with great knowledge in software engineering, systems architecture, DDD, systems integration, patterns designing, SOLID, unit tests and object oriented programing. Furthermore, he has knowledge in C#, Asp.net Core, NodeJs and React.
 
 # Education
-Analysis and Development Systems Technology at Unicarioca
-Studying Computer engineering at Faculdade Descomplica
+* Analysis and Development Systems Technology at Unicarioca
+* Studying Computer engineering at Faculdade Descomplica
 
 # Hard skills
 ## Languages
