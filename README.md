@@ -80,8 +80,9 @@ https://github.com/mzet97
 https://play.google.com/store/apps/details?id=com.mzet1997.zet_gestor_orcamento<br/>
 https://play.google.com/store/apps/details?id=com.mzet97.TranscricaoAPP
 
-Currículo Lattes:
+<h3>Currículo Lattes</h3>
 http://lattes.cnpq.br/8284979664123447
+<br/>
 <div style="display: flex;flex-direction: row;justify-content:center;align-items:center">
 <a href="https://www.linkedin.com/in/matheus-zeitune" title="LinkedIn">
  	<img style="height:100px;width:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
