@@ -20,6 +20,27 @@ Desenvolvedor de software com 4 anos de experiência, atualmente como pleno. Pos
 	<li>HTML</li>
 	<li>CSS</li>
 </ul> 
+<div class="flex-container">
+  <div>
+	  <ul>
+	<li>C#</li>
+	<li>Javascript</li>
+</ul>
+  </div>
+  <div>
+	   <ul>
+	<li>Typescript</li>
+	<li>Dart</li>
+</ul>
+  </div>
+  <div>
+	   <ul>
+	<li>Java</li>
+	<li>HTML</li>
+	<li>CSS</li>
+</ul>
+  </div>
+</div>
 
 <h3>Frameworks</h3>
 <ul>
