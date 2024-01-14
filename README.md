@@ -1,11 +1,31 @@
-# Hi, I'm Matheus Zeitune
+# Sobre
+Desenvolvedor de software com 4 anos de experiência, atualmente como pleno. Possui amplo conhecimento técnico em diversas áreas da computação, incluindo orientação a objetos, design patterns, engenharia de software, arquitetura de software, softwares distribuídos,  teste unitário e mensageria. É capaz de aprender e se adaptar rapidamente, trabalhar de forma independente e em equipe, resolver problemas de forma criativa e eficiente e comunicar de forma eficaz. 
 
-# About me
-Developer with great knowledge in software engineering, systems architecture, DDD, systems integration, patterns designing, SOLID, unit tests and object oriented programing. Furthermore, he has knowledge in C#, Asp.net Core, NodeJs and React.
+Formado em Análise e Desenvolvimento de sistemas e
+Pós-graduado em Desenvolvimento de aplicativos móveis multiplataforma. 
+Atualmente cursando Engenharia da Computação.
 
-# Education
-* Analysis and Development Systems Technology at Unicarioca
-* Studying Computer engineering at Faculdade Descomplica
+Linguagem de programação e outras:
+C#, Javascript, Typescript, Dart, Java, HTML e CSS.
+
+Frameworks:
+.Net legado, .Net 6, .Asp.net WEB API, .Asp.net MVC, Entity framework (Core e 6), MediatR, FluentValidation, Dapper, AutoMapper, Xunit, Microsoft Identity, MiniProfiler, ClosedXML, ExcelMapper, FluentScheduler, Bogus, MailKit, .NET Maui, React, Redux, Node.js, Express.js, Typeorm e Flutter.
+
+Banco de dados:
+SQL Server, MySQL, PostgreSQL, MongoDb, Redis e SQLite.
+
+Ferramentas:
+Git, Gitflow, Docker, Azure DevOps, RabbitMQ, Consul, Ocelot, Linux, Windows Server e IIS. 
+
+Meu Github:
+https://github.com/mzet97
+
+Apps publicados:
+https://play.google.com/store/apps/details?id=com.mzet1997.zet_gestor_orcamento
+https://play.google.com/store/apps/details?id=com.mzet97.TranscricaoAPP
+
+Currículo Lattes:
+http://lattes.cnpq.br/8284979664123447
 
 # Hard skills
 ## Languages
