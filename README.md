@@ -27,8 +27,6 @@ https://play.google.com/store/apps/details?id=com.mzet97.TranscricaoAPP
 Currículo Lattes:
 http://lattes.cnpq.br/8284979664123447
 
-# Hard skills
-## Languages
 <div style="display: flex;flex-direction: row;justify-content:center;align-items:center">
    
  <a href="#" title="Javascript">
@@ -53,76 +51,7 @@ http://lattes.cnpq.br/8284979664123447
 	
 </div>
 
-## Frameworks
-<div style="display: flex;flex-direction: row;justify-content:center;align-items:center">
-<a href="#" title="Node.js">
-   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-</a>
-<a href="#" title="React">
-   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-</a>        
-
-<a href="#" title="Flutter">
-   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-</a>                
-<a href="#" title=".Net core">
-   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-</a>          
-
-<a href="#" title=".Net">
-   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
-</a>          
-<a href="#" title="Express">
-	<img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-</a>   
-</div>
-   
-* Asp.Net Core
-* Aps.Net 6
-* Entity Framework
-* Entity framework Core
-
-## Databases
-<div style="display: flex;flex-direction: row;justify-content:center;align-items:center">
-	<a href="#" title="MySQL">
-    <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-</a>  
-	<a href="#" title="PostgreSQL">
-    <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />    
-</a>   
-	<a href="#" title="SQL Server">
-		<img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />        
-</a>   
-	<a href="#" title="MongoDB">
-     <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
- </a>
-	
-</div>
-
-## Tools
-<div style="display: flex;flex-direction: row;justify-content:center;align-items:center">
-	<a href="#" title="Git">
-      <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />  
- </a>
-	<a href="#" title="Docker">
-		<img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
- </a>
-	<a href="#" title="VSCode">
-     <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />    
- </a>
-	<a href="#" title="Visual Studio">
-      <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />  
- </a>
-	<a href="#" title="Yarn">
-     <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />   
- </a>
-	<a href="#" title="NPM">
-      <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-	</a>
-	
-</div>
-
-# Social Media
+# Redes Sociais
 <div style="display: flex;flex-direction: row;justify-content:center;align-items:center">
 <a href="https://www.linkedin.com/in/matheus-zeitune" title="LinkedIn">
  	<img style="height:100px;width:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
