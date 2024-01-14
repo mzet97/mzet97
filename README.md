@@ -28,31 +28,6 @@ Currículo Lattes:
 http://lattes.cnpq.br/8284979664123447
 
 <div style="display: flex;flex-direction: row;justify-content:center;align-items:center">
-   
- <a href="#" title="Javascript">
-   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- </a>
-
- <a href="#" title="Typescript">
-   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
- </a>
-
- <a href="#" title="C#">
-   <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
- </a>
-
- <a href="#" title="Java">
-  <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
- </a>
-
- <a href="#" title="Dart">
-  <img style="height:50px;width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
- </a>
-	
-</div>
-
-# Redes Sociais
-<div style="display: flex;flex-direction: row;justify-content:center;align-items:center">
 <a href="https://www.linkedin.com/in/matheus-zeitune" title="LinkedIn">
  	<img style="height:100px;width:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
 	</a>
