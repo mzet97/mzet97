@@ -114,3 +114,9 @@ http://lattes.cnpq.br/8284979664123447
   <a href="#"> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mzet97&theme=react&line_height=40&hide=css"/> </a>
   <a href="#"> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mzet97&show_icons=true&theme=merko"/> </a>
 </div>
+<style>
+.flex-container {
+  display: flex;
+}
+
+</style>
