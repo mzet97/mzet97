@@ -77,7 +77,7 @@ Desenvolvedor de software com 4 anos de experiência, atualmente como pleno. Pos
 https://github.com/mzet97
 
 <h3>Apps publicados</h3>
-https://play.google.com/store/apps/details?id=com.mzet1997.zet_gestor_orcamento
+https://play.google.com/store/apps/details?id=com.mzet1997.zet_gestor_orcamento<br/>
 https://play.google.com/store/apps/details?id=com.mzet97.TranscricaoAPP
 
 Currículo Lattes:
