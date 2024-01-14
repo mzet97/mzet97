@@ -21,19 +21,62 @@ Desenvolvedor de software com 4 anos de experiência, atualmente como pleno. Pos
 	<li>CSS</li>
 </ul> 
 
-Frameworks:
-.Net legado, .Net 6, .Asp.net WEB API, .Asp.net MVC, Entity framework (Core e 6), MediatR, FluentValidation, Dapper, AutoMapper, Xunit, Microsoft Identity, MiniProfiler, ClosedXML, ExcelMapper, FluentScheduler, Bogus, MailKit, .NET Maui, React, Redux, Node.js, Express.js, Typeorm e Flutter.
+<h3>Frameworks</h3>
+<ul>
+	<li>.Net legado</li>
+	<li>.Net Core 8</li>
+	<li>.Asp.net WEB API</li>
+	<li>.Asp.net MVC</li>
+	<li> Entity framework (Core e 6)</li>
+	<li>MediatR</li>
+	<li>FluentValidation</li>
+	<li>Dapper</li>
+	<li>AutoMapper</li>
+	<li>Xunit</li>
+	<li>Microsoft Identity</li>
+	<li>MiniProfiler</li>
+	<li>ClosedXML</li>
+	<li>ExcelMapper</li>
+	<li>FluentScheduler</li>
+	<li>Bogus</li>
+	<li>MailKit</li>
+	<li>.NET Maui</li>
+	<li>React</li>
+	<li>Redux</li>
+	<li>Node.js</li>
+	<li>Express.js</li>
+	<li>Typeorm</li>
+	<li>Flutter</li>
+</ul> 
 
-Banco de dados:
-SQL Server, MySQL, PostgreSQL, MongoDb, Redis e SQLite.
+<h3>Banco de dados</h3>
+<ul>
+	<li>SQL Server</li>
+	<li>MySQL</li>
+	<li>PostgreSQL</li>
+	<li>MongoDb</li>
+	<li>Redis</li>
+	<li>SQLite</li>
+</ul> 
 
-Ferramentas:
-Git, Gitflow, Docker, Azure DevOps, RabbitMQ, Consul, Ocelot, Linux, Windows Server e IIS. 
+<h3>Ferramentas</h3>
+<ul>
+	<li>Git</li>
+	<li>Gitflow</li>
+	<li>Docker</li>
+	<li>Azure DevOps</li>
+	<li>RabbitMQ</li>
+	<li>Consul</li>
+	<li>Ocelot</li>
+	<li>Linux</li>
+	<li>Windows Server</li>
+	<li>IIS</li>
+</ul> 
 
-Meu Github:
+<h3>Meu Github</h3>
 https://github.com/mzet97
 
-Apps publicados:
+<h3>Apps publicados</h3>
 https://play.google.com/store/apps/details?id=com.mzet1997.zet_gestor_orcamento
 https://play.google.com/store/apps/details?id=com.mzet97.TranscricaoAPP
 
