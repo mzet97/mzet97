@@ -1,4 +1,4 @@
-[<h1>Sobre</h1>
+<h1>Sobre</h1>
 <p>
 Desenvolvedor de software com 4 anos de experiência, atualmente como pleno. Possui amplo conhecimento técnico em diversas áreas da computação, incluindo orientação a objetos, design patterns, engenharia de software, arquitetura de software, softwares distribuídos, teste unitário e mensageria. É capaz de aprender e se adaptar rapidamente, trabalhar de forma independente e em equipe, resolver problemas de forma criativa e eficiente e comunicar de forma eficaz. 
 </p>
