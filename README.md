@@ -7,7 +7,6 @@ Desenvolvedor de software com 4 anos de experiência, atualmente como pleno. Pos
 	<li>Formado em Análise e Desenvolvimento de sistemas.</li>
 	<li>Pós-graduado em Desenvolvimento de aplicativos móveis multiplataforma.</li>
 	<li>Atualmente cursando Engenharia da Computação.</li>
-	<li>Mestrando em Ciências computacionais em Metodologias e Técnicas de Desenvolvimento de Software na UERJ.</li>
 </ul> 
 
 <h3>Linguagem de programação e outras:</h3>
