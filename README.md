@@ -20,7 +20,7 @@ Trabalho com tecnologias modernas como **.NET 8**, **React**, **RabbitMQ**, **Re
 
 - Pós-graduação em Desenvolvimento de Aplicativos Móveis Multiplataforma – Faculdade Descomplica  
 - Tecnólogo em Análise e Desenvolvimento de Sistemas – UniCarioca  
-- Bacharelado em Engenharia da Computação – Faculdade Descomplica (em andamento)
+- Bacharelado em Engenharia da Computação – Universidade Veiga de Almeida (em andamento)
 
 ---
 
@@ -63,6 +63,8 @@ Trabalho com tecnologias modernas como **.NET 8**, **React**, **RabbitMQ**, **Re
 ---
 
 ## 💼 Experiências Recentes
+
+- ** Clube de Regatas do Flamengo (2024 - Atual)**
 
 - **First Decision (2023 - 2024)**  
   Sistemas para o Ministério Público de SC usando .NET 8 e Next.js, com foco em SSR/SSG, automação de workflows jurídicos, CI/CD com GitHub Actions e testes com Jest.
