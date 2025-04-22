@@ -80,7 +80,7 @@ Trabalho com tecnologias modernas como **.NET 8**, **React**, **RabbitMQ**, **Re
 ## 📱 Apps Publicados
 
 - [Gestor de Orçamento](https://play.google.com/store/apps/details?id=com.mzet1997.zet_gestor_orcamento)
-- [App de Transcrição com IA](https://play.google.com/store/apps/details?id=com.mzet97.TranscricaoAPP)
+- [App de Transcrição](https://play.google.com/store/apps/details?id=com.mzet97.TranscricaoAPP)
 
 ---
 
