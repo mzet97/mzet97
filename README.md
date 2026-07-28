@@ -1,116 +1,159 @@
-# 👋 Olá, eu sou o Matheus Zeitune
+# SENIOR SOFTWARE ENGINEER | .NET/C# | REACT/TYPESCRIPT
 
-Desenvolvedor Full Stack com mais de 6 anos de experiência, criando sistemas estratégicos nos setores governamental, esportivo, financeiro e ambiental.
+## RESUMO PROFISSIONAL
 
-Trabalho com tecnologias modernas como **.NET 8**, **React**, **AWS**, **Azure**, **RabbitMQ**, **Redis**, **JWT/OpenID**, **Elastic Stack**, entre outras.
+Desenvolvedor Full Stack Sênior com mais de 6 anos de experiência na construção, manutenção e modernização de sistemas corporativos nos setores financeiro, governamental, esportivo e ambiental. Especializado em C#/.NET e React/TypeScript, com experiência em APIs, microsserviços, arquiteturas serverless, mensageria, bancos de dados relacionais e aplicações legadas. Atua com autonomia na investigação de problemas, correção de vulnerabilidades, desenvolvimento ponta a ponta, testes automatizados e sustentação de sistemas em produção. Possui experiência em AWS, Azure, Docker e CI/CD, além de atuação acadêmica e open source com sistemas distribuídos e Rust.
 
----
+## COMPETÊNCIAS TÉCNICAS
 
-## 🚀 Sobre mim
-
-🎯 Especialista em arquiteturas escaláveis e microsserviços, aplicando DDD e Clean Architecture.
-🔐 Foco constante em segurança (OWASP Top 10), performance e confiabilidade.
-🔄 Aficionado por CI/CD, DevOps e automação de processos com Azure DevOps e GitHub Actions.
-📊 Experiência em observabilidade com OpenTelemetry, Elastic Stack, Prometheus e Grafana.
-🤖 Entusiasta de IA para aceleração de desenvolvimento com Amazon Q, GitHub Copilot e agentes inteligentes.
-🌍 Atuação em projetos de impacto para o BTG Pactual, Clube de Regatas do Flamengo, Ministério da Justiça, Ministério Público de SC e Instituto Estadual do Meio Ambiente do RJ.
-
----
-
-## 📘 Formação Acadêmica
-
-- **Mestrado em Ciências da Computacionais** – UERJ (2024 - 2026)
-- **Bacharelado em Engenharia da Computação** – Universidade Veiga de Almeida (2025 - 2030)
-- **Pós-graduação em Desenvolvimento de Aplicativos Móveis Multiplataforma** – Faculdade Descomplica (2022 - 2023)
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** – UniCarioca (2018 - 2021)
-
----
-
-## 🧠 Tecnologias e Ferramentas
-
-### 🛠️ Linguagens de Programação
+### Linguagens e frameworks
 - C#
-- JavaScript
+- .NET 6/8
+- ASP.NET Core
+- React
 - TypeScript
-- Dart
+- JavaScript
 - Java
-- Go
+- Angular
+- Next.js
+- Rust (conhecimento complementar)
 
-### 🚀 Back-end
-- .NET 8 (Web API, Minimal APIs), OData v4, Entity Framework Core 8, Dapper
-- Padrões: DDD, Clean Architecture, Microsserviços, Contratos Versionados
-- Segurança: OpenIddict, Microsoft Entra ID (OIDC/OAuth2), JWT, Rate Limiting, Anti-CSRF
+### Backend
+- Web APIs
+- APIs REST
+- OData v4
+- Entity Framework Core
+- Dapper
+- LINQ
+- Serviços em segundo plano
+- Testes com xUnit
 
-### 🌐 Front-end
-- React 18, Next.js, Vite, TypeScript
-- UI/UX: MUI X / DataGrid Premium, react-hook-form, Yup
-- Integrações: Power BI Embedded
+### Frontend
+- React
+- TypeScript
+- Vite
+- MUI X/DataGrid
+- React Hook Form
+- Next.js
+- Angular
 
-### 🗄️ Bancos de Dados & Busca
-- SQL Server, Azure SQL, PostgreSQL, MongoDB
-- Elasticsearch (Full-text search & Analytics), Redis (Cache distribuído)
+### Arquitetura e integração
+- Microsserviços
+- Serverless
+- SQS
+- SNS
+- RabbitMQ
+- Ocelot API Gateway
+- Redis
+- DDD
+- Clean Architecture
 
-### ☁️ Cloud, DevOps & CI/CD
-- **Azure:** App Service, Application Gateway (WAF), AKS, Azure SQL, Azure Monitor, Key Vault, Azure DevOps
-- **AWS:** Lambda (Serverless .NET), SQS, SNS, RDS (PostgreSQL)
-- **CI/CD:** Azure DevOps (Repos & Pipelines), GitHub Actions
-- **Contêineres:** Docker, Docker Compose, Kubernetes (AKS)
+### Bancos de dados
+- SQL Server
+- Azure SQL
+- PostgreSQL/Amazon RDS
 
-### 📊 Observabilidade & Logs
-- OpenTelemetry, Elastic Stack (Elasticsearch + Kibana), Métricas, Traces, Dashboards
+### Cloud e DevOps
+- AWS Lambda
+- SQS
+- SNS
+- RDS
+- Azure
+- Docker
+- Kubernetes/AKS
+- GitHub Actions
+- Azure DevOps
 
-### ✅ Qualidade & Testes
-- xUnit (Unitários e Integração), Playwright (E2E), Jest
-- Análise Estática: SonarQube, Qodana (Qualidade, SAST, Cobertura)
+### Segurança
+- Correção de vulnerabilidades
+- OWASP Top 10
+- JWT
+- OIDC/OAuth2
+- Microsoft Entra ID
+- Análise estática de segurança
 
-### 🤖 Inteligência Artificial
-- Trae IDE, Amazon Q, GitHub Copilot, Claude Code, MCP, Codex, N8N, Agentes Inteligentes
+### Observabilidade e qualidade
+- OpenTelemetry
+- Elastic Stack
+- Azure Monitor
+- xUnit
+- Jest
+- Playwright
+- SonarQube
+- Qodana
 
----
+## EXPERIÊNCIA PROFISSIONAL
 
-## 💼 Experiências Recentes
+### V8 TECH — Desenvolvedor Full Stack .NET/React (Sênior) | mai/2026–presente
+**Cliente:** Banco BMG — Crédito consignado
 
-- **ACT Digital (2025 - Atual)**  
-  Alocado no BTG Pactual (time Mastercard), desenvolvendo microsserviços serverless em AWS Lambda com .NET, SQS/SNS e RDS PostgreSQL. Uso IA generativa (Amazon Q) para acelerar o desenvolvimento e troubleshooting.
+- Analisa e corrige vulnerabilidades em aplicações Java legadas, contribuindo para a segurança, estabilidade e manutenibilidade dos sistemas.
+- Participa da migração de aplicações Java para uma arquitetura baseada em microsserviços .NET.
+- Colabora na modernização da plataforma e na separação de responsabilidades entre serviços, preservando a continuidade das soluções existentes.
 
-- **Clube de Regatas do Flamengo (2024 - 2025)**  
-  Desenvolvimento do ERP FlaFutManager em .NET 8 e React (Vite), com microsserviços, micro frontends, RabbitMQ, Ocelot e Redis. Criei uma funcionalidade de pesquisa em linguagem natural com Azure AI Foundry.
+### ACT DIGITAL — Desenvolvedor Full Stack .NET/React (Sênior) | set/2025–abr/2026
+**Cliente:** BTG Pactual — Time Mastercard
 
-- **First Decision (2023 - 2024)**  
-  Sistemas para o Ministério Público de SC usando .NET 8 e Next.js, com foco em SSR/SSG, automação de workflows jurídicos, CI/CD com GitHub Actions e testes com Jest.
+- Implementou e manteve componentes .NET em um ecossistema serverless composto por mais de 52 funções AWS Lambda e três APIs.
+- Desenvolveu integrações assíncronas com Amazon SQS e SNS e trabalhou com dados transacionais em PostgreSQL no Amazon RDS.
+- Criou testes unitários e de integração com xUnit, atendendo ao requisito mínimo de 85% de cobertura definido para o projeto.
+- Utilizou Amazon Q no desenvolvimento, na criação de testes, no refinamento de código e no apoio a troubleshooting.
 
-- **Meta (2022 - 2023)**  
-  Modernização de sistemas do Ministério da Justiça com .NET 6, Docker, AKS e React, foco em segurança, escalabilidade e integração com LDAP.
+### CLUBE DE REGATAS DO FLAMENGO — Desenvolvedor Full Stack .NET/React (Pleno/Sênior) | mai/2024–set/2025
 
-- **Brilliant Machine (2022)**  
-  Sistemas para o Instituto Estadual do Meio Ambiente do RJ, com Angular e .NET, promovendo a digitalização de processos ambientais.
+- Desenvolveu funcionalidades do FlaFutManager, ERP esportivo em .NET 8 e React/TypeScript utilizado por aproximadamente 30 usuários internos.
+- Construiu e manteve APIs REST e OData v4 com Entity Framework Core 8 e SQL Server, incluindo consultas com filtros, ordenação e expansão de relacionamentos.
+- Implementou integrações assíncronas com RabbitMQ, cache distribuído com Redis e roteamento de APIs por meio do Ocelot.
+- Integrou Power BI Embedded para disponibilização de painéis analíticos dentro do sistema.
+- Criou uma funcionalidade com Azure AI Foundry para converter solicitações em linguagem natural em consultas OData exibidas no MUI X DataGrid.
 
----
+### FIRST DECISION — Desenvolvedor Full Stack .NET/Next.js (Pleno) | out/2023–abr/2024
+**Cliente:** Ministério Público de Santa Catarina
 
-## 📱 Apps Publicados
+- Desenvolveu sistemas corporativos com .NET, Next.js, APIs REST, Dapper e SQL Server para automação e gestão de processos institucionais.
+- Implementou testes automatizados com Jest, alcançando 85% de cobertura no escopo monitorado pelo projeto.
+- Utilizou Docker e pipelines do GitHub Actions para padronização de ambientes e automação de entregas.
 
-- [Gestor de Orçamento](https://play.google.com/store/apps/details?id=com.mzet1997.zet_gestor_orcamento)
-- [App de Transcrição](https://play.google.com/store/apps/details?id=com.mzet97.TranscricaoAPP)
+### META — Desenvolvedor Full Stack .NET/React (Pleno) | set/2022–set/2023
+**Cliente:** Ministério da Justiça e Segurança Pública
 
----
+- Manteve e modernizou o PGD, sistema de acompanhamento de trabalho por tarefas, realizando o porte da nova versão adquirida pela ANPD de ambiente on-premises para Azure.
+- Desenvolveu a funcionalidade de impressão de boletins de ocorrência no Sinesp Agente de Campo.
+- Contribuiu durante três meses para o projeto Pessoas Desaparecidas, trabalhando com Java e Angular.
 
-## 📊 GitHub Stats
+### BRILLIANT MACHINE — Desenvolvedor Full Stack .NET/Angular (Pleno) | mar/2022–jun/2022
+**Cliente:** Instituto Estadual do Ambiente do Rio de Janeiro (INEA)
 
-<div style="display: flex;flex-direction: row;justify-content:center;align-items:center"> 
-  <a href="#"> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mzet97&theme=react&line_height=40&hide=css"/> </a>
-  <a href="#"> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mzet97&show_icons=true&theme=merko"/> </a>
-</div>
+- Desenvolveu sistemas .NET e Angular para licenciamento ambiental, auditoria e automação de processos institucionais.
+- Implementou serviços em segundo plano para processamento assíncrono e interfaces com Angular e PrimeNG.
 
-<br clear="both" />
+### MTSLAB — Desenvolvedor .NET MVC (Júnior) | mar/2019–out/2021
 
----
+- Manteve e evoluiu um ERP de medicina ocupacional em .NET MVC, automatizando relatórios e formulários operacionais.
+- Prestou suporte aos usuários e auxiliou na administração dos servidores Windows da empresa.
 
-## 📬 Contato
+### MARLIN — Estágio em Desenvolvimento Backend .NET | set/2020–set/2021
 
-- 📧 Email: [matheus.zeitune.developer@outlook.com](mailto:matheus.zeitune.developer@outlook.com)  
-- 🔗 LinkedIn: [linkedin.com/in/matheus-zeitune](https://www.linkedin.com/in/matheus-zeitune/)  
-- 🐙 GitHub: [github.com/mzet97](https://github.com/mzet97)
+- Estágio realizado simultaneamente ao vínculo CLT na MTSLAB.
+- Desenvolveu funcionalidades do sistema Hcommerce com ASP.NET Web API 4.7, C#, Entity Framework 6 e SQL Server.
+- Contribuiu para modelagem UML e documentação do sistema em uma equipe Scrum que utilizava TFS.
 
----
+## PROJETO OPEN SOURCE E PESQUISA
 
-> “Transformo código em soluções que impactam pessoas e organizações.”
+### Cyclone DDS para Rust
+- Repositório: https://github.com/mzet97/cyclonedds-rust
+- Desenvolve bindings seguros e idiomáticos em Rust para o Eclipse Cyclone DDS, incluindo entidades DDS, políticas de QoS, operações assíncronas e ferramentas de geração a partir de IDL.
+- A crate principal `cyclonedds` possui mais de 2 mil downloads no crates.io.
+
+## FORMAÇÃO ACADÊMICA
+
+- **Mestrado em Ciências Computacionais** — Universidade do Estado do Rio de Janeiro (UERJ) | 2024–2026, em andamento
+- **Bacharelado em Engenharia da Computação** — Universidade Veiga de Almeida (UVA) | 2025–2030, em andamento
+- **Pós-graduação em Engenharia de Software** — Faculdade Descomplica | 2025–2026, em andamento
+- **Pós-graduação em Desenvolvimento de Aplicativos Móveis Multiplataforma** — Faculdade Descomplica | 2022–2023, concluída
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Centro Universitário UniCarioca | 2018–2021, concluído
+
+## IDIOMAS
+
+- Português nativo
+- Inglês básico (A2), com leitura de documentação técnica e aulas em andamento
