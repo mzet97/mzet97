@@ -1,8 +1,12 @@
-# SENIOR SOFTWARE ENGINEER | .NET/C# | REACT/TYPESCRIPT
+# MATHEUS ZEITUNE
+
+**Senior Software Engineer | .NET/C# | React/TypeScript**
+
+Rio de Janeiro, RJ | [matheus.zeitune.developer@outlook.com](mailto:matheus.zeitune.developer@outlook.com) | [LinkedIn](https://www.linkedin.com/in/matheus-zeitune) | [GitHub](https://github.com/mzet97)
 
 ## RESUMO PROFISSIONAL
 
-Desenvolvedor Full Stack Sênior com mais de 6 anos de experiência na construção, manutenção e modernização de sistemas corporativos nos setores financeiro, governamental, esportivo e ambiental. Especializado em C#/.NET e React/TypeScript, com experiência em APIs, microsserviços, arquiteturas serverless, mensageria, bancos de dados relacionais e aplicações legadas. Atua com autonomia na investigação de problemas, correção de vulnerabilidades, desenvolvimento ponta a ponta, testes automatizados e sustentação de sistemas em produção. Possui experiência em AWS, Azure, Docker e CI/CD, além de atuação acadêmica e open source com sistemas distribuídos e Rust.
+Engenheiro de Software Sênior com mais de 7 anos de experiência em sistemas corporativos nos setores financeiro, governamental, esportivo e ambiental, com atuação em Arquitetura de Software. Projetou e implementou a arquitetura de microsserviços e Micro Frontends do ERP FlaFutManager, além de atuar com modernização de legados, serverless, integrações assíncronas, APIs e bancos de dados relacionais. Trabalha com C#/.NET, React/TypeScript, AWS e Azure, combinando segurança, observabilidade, qualidade e automação de entregas. Cursa pós-graduação em Arquitetura de Software Distribuído na PUC Minas e desenvolve pesquisa de mestrado em sistemas distribuídos e orquestração de LLMs com DDS.
 
 ## COMPETÊNCIAS TÉCNICAS
 
@@ -149,6 +153,7 @@ Desenvolvedor Full Stack Sênior com mais de 6 anos de experiência na construç
 
 - **Mestrado em Ciências Computacionais** — Universidade do Estado do Rio de Janeiro (UERJ) | 2024–2026, em andamento
 - **Bacharelado em Engenharia da Computação** — Universidade Veiga de Almeida (UVA) | 2025–2030, em andamento
+- **Pós-graduação em Arquitetura de Software Distribuído** — PUC Minas | em andamento
 - **Pós-graduação em Engenharia de Software** — Faculdade Descomplica | 2025–2026, em andamento
 - **Pós-graduação em Desenvolvimento de Aplicativos Móveis Multiplataforma** — Faculdade Descomplica | 2022–2023, concluída
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Centro Universitário UniCarioca | 2018–2021, concluído
