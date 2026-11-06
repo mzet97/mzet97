@@ -2,7 +2,7 @@
 
 **Senior Software Engineer | .NET/C# | React/TypeScript**
 
-Rio de Janeiro, RJ | [matheus.zeitune.developer@outlook.com](mailto:matheus.zeitune.developer@outlook.com) | [LinkedIn](https://www.linkedin.com/in/matheus-zeitune) | [GitHub](https://github.com/mzet97)
+Rio de Janeiro, RJ | [LinkedIn](https://www.linkedin.com/in/matheus-zeitune) | [GitHub](https://github.com/mzet97)
 
 ## RESUMO PROFISSIONAL
 
